@@ -1,0 +1,14 @@
+.cell{
+    background-color: #e4e4e4c8 !important;
+    text-align: center;
+    font-size: 5em;
+    cursor: pointer;
+    /* width: 250px; */
+    height: 160px;
+    padding: 0;
+    margin: 0;
+}
+
+.cell:hover{
+    background-color: #ded9d9e6 !important;
+}
